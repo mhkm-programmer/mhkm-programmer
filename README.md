@@ -16,7 +16,7 @@ In addition to my frontend and backend expertise, I possess a range of additiona
 
 If you are seeking a highly skilled and adaptable developer who can excel in both frontend and backend development, I am ready to contribute my expertise to your projects. Let's connect and discuss how I can help drive your business forward.
 
-⏺Frontend Developer:  
+⏺Frontend Skills:  
 
 🔹HTML
 🔹CSS
@@ -26,7 +26,7 @@ If you are seeking a highly skilled and adaptable developer who can excel in bot
 🔹React 
 🔹UI/UX Design (Figma, Adobe XD) 
 
-⏺Backend Developer:  
+⏺Backend Skills:  
 
 🔹Node.js 
 🔹Express.js 
