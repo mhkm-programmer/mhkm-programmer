@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Md Humayun Kabir Miaze
+### Hi there 👋, my name is Md Humayun Kabir Miazee
 #### Frontend Developer | React Developer | Backend Developer | MERN Stack Developer | Shopify Developer
 ![Frontend Developer | React Developer | Backend Developer | MERN Stack Developer | Shopify Developer](https://i.ibb.co/DV3ZW6m/mernstack-dev-process.png)
 
