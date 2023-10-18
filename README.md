@@ -9,6 +9,17 @@ Imagine a robust server that adapts and scales with your business growth. That's
 ⚒️ Going Above and Beyond:
 I go the extra mile by employing Git for version control, Webpack and Gulp for seamless automation, and testing frameworks like Jest and Mocha for solid projects. DevOps is my forte, ensuring smooth integration and deployment. I thrive in Agile methodologies and excel at collaborative efforts.
 
+🛠️ Tech Stack Highlights:
+
+Frontend Skills:
+🔹 HTML 🔹 CSS 🔹 Bootstrap 🔹 Tailwind CSS 🔹 JavaScript 🔹 React 🔹 UI/UX Design (Figma, Adobe XD)
+
+Backend Skills:
+🔹 Node.js 🔹 Express.js 🔹 MongoDB 🔹 MySQL 🔹 RESTful API Development 🔹 Authentication and Authorization 🔹 Server Deployment (Docker, AWS)
+
+Additional Skills:
+🔹 Git (Version Control) 🔹 Webpack, Gulp (Task Automation) 🔹 Testing Frameworks (Jest, Mocha) 🔹 DevOps (Continuous Integration, Deployment) 🔹 Agile Methodologies 🔹 Cross-Functional Collaboration
+
 💡 My Vision for Your Projects:
 
 Strategic UI/UX Design: Your users will not only love the look but find the navigation intuitive, keeping them hooked.
